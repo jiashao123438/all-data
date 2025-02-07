@@ -1,0 +1,4 @@
+"Tumor_Sample_Barcode" "type"
+"TCGA-HM-A3JJ-11" "TCGA-HM-A3JJ" "Normal"
+"TCGA-FU-A3EO-11" "TCGA-FU-A3EO" "Normal"
+"TCGA-MY-A5BF-11" "TCGA-MY-A5BF" "Normal"
